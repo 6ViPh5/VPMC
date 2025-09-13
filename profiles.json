@@ -16,10 +16,6 @@
       "jvm_args": "-Xmx6G",
       "mods": [
         {
-          "slug": "sodium",
-          "version": "mc1.21.6-0.6.13-fabric"
-        },
-        {
           "slug": "fabric-api",
           "version": "0.133.4+1.21.8"
         }
