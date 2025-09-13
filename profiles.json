@@ -13,7 +13,17 @@
       "minecraft_version": "1.21.8",
       "modloader_type": "fabric",
       "modloader_version": "0.17.2",
-      "jvm_args": "-Xmx6G"
+      "jvm_args": "-Xmx6G",
+      "mods": [
+        {
+          "slug": "sodium",
+          "version": "mc1.21.6-0.6.13-fabric"
+        },
+        {
+          "slug": "fabric-api",
+          "version": "0.133.4+1.21.8"
+        }
+      ]
     },
     "c3d4e5f6-a7b8-9012-3456-7890abcdef12": {
       "name": "Minecraft Visuals",
