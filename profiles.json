@@ -10,23 +10,23 @@
     },
     "b2c3d4e5-f6a7-8901-2345-67890abcdef1": {
       "name": "Minecraft Tecnico",
-      "minecraft_version": "1.19.4",
+      "minecraft_version": "1.21.8",
       "modloader_type": "fabric",
-      "modloader_version": "0.14.21",
+      "modloader_version": "0.17.2",
       "jvm_args": "-Xmx6G"
     },
     "c3d4e5f6-a7b8-9012-3456-7890abcdef12": {
       "name": "Minecraft Visuals",
       "minecraft_version": "1.21.8",
       "modloader_type": "fabric",
-      "modloader_version": "40.2.0",
+      "modloader_version": "0.17.2",
       "jvm_args": "-Xmx8G"
     },
     "9bc5c4f4-62c7-440f-a015-73b451083fe1": {
       "name": "TEST",
       "minecraft_version": "1.21.8",
       "modloader_type": "fabric",
-      "modloader_version": "40.2.0",
+      "modloader_version": "0.17.2",
       "jvm_args": "-Xmx8G"
     }
   }
