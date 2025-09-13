@@ -28,12 +28,16 @@
       "modloader_version": "0.17.2",
       "jvm_args": "-Xmx8G"
     },
-    "9bc5c4f4-62c7-440f-a015-73b451083fe1": {
-      "name": "SODIUM TEST",
-      "minecraft_version": "1.21.8",
+    "name": "TEST",
+      "minecraft_version": "1.21",
       "modloader_type": "fabric",
-      "modloader_version": "0.17.2",
-      "jvm_args": "-Xmx8G"
-    }
+      "modloader_version": "0.15.11",
+      "jvm_args": "-Xmx6G",
+      "mods": [
+        {
+          "slug": "fabric-api",
+          "version": "0.100.3+1.21"
+        }
+      ]
   }
 }
