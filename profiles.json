@@ -23,7 +23,7 @@
       "jvm_args": "-Xmx8G"
     },
     "9bc5c4f4-62c7-440f-a015-73b451083fe1": {
-      "name": "TEST",
+      "name": "TEST1",
       "minecraft_version": "1.21.8",
       "modloader_type": "fabric",
       "modloader_version": "0.17.2",
