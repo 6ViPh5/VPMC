@@ -16,8 +16,8 @@
       "jvm_args": "-Xmx6G",
       "mods": [
         {
-          "slug": "fabric-api",
-          "version": "0.133.4+1.21.8"
+          "slug": "sodium",
+          "version": "mc1.21.6-0.6.13-fabric"
         }
       ]
     },
@@ -29,7 +29,7 @@
       "jvm_args": "-Xmx8G"
     },
     "9bc5c4f4-62c7-440f-a015-73b451083fe1": {
-      "name": "TEST1",
+      "name": "SODIUM TEST",
       "minecraft_version": "1.21.8",
       "modloader_type": "fabric",
       "modloader_version": "0.17.2",
