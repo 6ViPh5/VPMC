@@ -27,17 +27,6 @@
       "modloader_type": "fabric",
       "modloader_version": "0.17.2",
       "jvm_args": "-Xmx8G"
-    },
-    "name": "TEST",
-      "minecraft_version": "1.21",
-      "modloader_type": "fabric",
-      "modloader_version": "0.15.11",
-      "jvm_args": "-Xmx6G",
-      "mods": [
-        {
-          "slug": "fabric-api",
-          "version": "0.100.3+1.21"
-        }
-      ]
+    }
   }
 }
