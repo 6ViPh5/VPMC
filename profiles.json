@@ -6,7 +6,8 @@
       "minecraft_version": "1.21.8",
       "modloader_type": null,
       "modloader_version": null,
-      "jvm_args": "-Xmx4G"
+      "jvm_args": "-Xmx4G",
+      "background_url": "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fhey-i-just-realised-that-minecraft-dropped-wallpapers-for-v0-af632nce2dud1.jpg%3Fwidth%3D3840%26format%3Dpjpg%26auto%3Dwebp%26s%3D102770acfd3d1534ba97f09cfcaab822e6485b9e"
     },
     "b2c3d4e5-f6a7-8901-2345-67890abcdef1": {
       "name": "Minecraft Tecnico",
@@ -14,6 +15,7 @@
       "modloader_type": "fabric",
       "modloader_version": "0.17.2",
       "jvm_args": "-Xmx6G",
+      "background_url": "https://i.imgur.com/7BjxfxL.png",
       "mods": [
         {
           "slug": "sodium",
@@ -26,7 +28,8 @@
       "minecraft_version": "1.21.8",
       "modloader_type": "fabric",
       "modloader_version": "0.17.2",
-      "jvm_args": "-Xmx8G"
+      "jvm_args": "-Xmx8G",
+      "background_url": "https://i.imgur.com/7BjxfxL.png"
     }
   }
 }
