@@ -15,7 +15,7 @@
       "modloader_type": "fabric",
       "modloader_version": "0.17.2",
       "jvm_args": "-Xmx6G",
-      "background_url": "https://i.imgur.com/7BjxfxL.png",
+      "background_url": "https://i.imgur.com/JxeNWwl.png",
       "mods": [
         {
           "slug": "sodium",
@@ -29,7 +29,7 @@
       "modloader_type": "fabric",
       "modloader_version": "0.17.2",
       "jvm_args": "-Xmx8G",
-      "background_url": "https://i.imgur.com/7BjxfxL.png"
+      "background_url": "https://i.imgur.com/bs7lkGM.png"
     }
   }
 }
