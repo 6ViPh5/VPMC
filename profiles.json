@@ -20,6 +20,86 @@
         {
           "slug": "sodium",
           "version": "mc1.21.6-0.6.13-fabric"
+        },
+        {
+          "slug": "fabric-language-kotlin",
+          "version": "1.13.6+kotlin.2.2.20"
+        },
+        {
+          "slug": "ferrite-core",
+          "version": "8.0.0-fabric"
+        },
+        {
+          "slug": "iris",
+          "version": "1.9.1+1.21.7-fabric"
+        },
+        {
+          "slug": "litematica",
+          "version": "0.23.4"
+        },
+        {
+          "slug": "litematica-enderchest-materials",
+          "version": "0.23.3"
+        },
+        {
+          "slug": "lithium",
+          "version": "mc1.21.8-0.18.0-fabric"
+        },
+        {
+          "slug": "malilib",
+          "version": "0.25.5"
+        },
+        {
+          "slug": "minihud",
+          "version": "0.36.4"
+        },
+        {
+          "slug": "sodium-extra",
+          "version": "mc1.21.6-0.6.6+fabric"
+        },
+        {
+          "slug": "sodium-fullbright",
+          "version": "1.0.1"
+        },
+        {
+          "slug": "vtdownloader",
+          "version": "2.3.5+1.21.6"
+        },
+        {
+          "slug": "worldedit",
+          "version": "7.3.16"
+        },
+        {
+          "slug": "anglesnap",
+          "version": "0.8.0+mc1.21.6-1.21.8"
+        },
+        {
+          "slug": "c2me-fabric",
+          "version": "0.3.5+alpha.0.8+1.21.8"
+        },
+        {
+          "slug": "carpet-tis-addition",
+          "version": "v1.68.1-mc1.21.8"
+        },
+        {
+          "slug": "carpet",
+          "version": "1.4.177"
+        },
+        {
+          "slug": "continuity",
+          "version": "3.0.1-beta.1+1.21.6"
+        },
+        {
+          "slug": "entity-model-features",
+          "version": "3.0.1"
+        },
+        {
+          "slug": "entitytexturefeatures",
+          "version": "7.0.2"
+        },
+        {
+          "slug": "fabric-api",
+          "version": "0.133.4+1.21.8"
         }
       ]
     },
