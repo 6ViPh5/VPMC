@@ -7,7 +7,7 @@
       "modloader_type": null,
       "modloader_version": null,
       "jvm_args": "-Xmx4G",
-      "background_url": "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fhey-i-just-realised-that-minecraft-dropped-wallpapers-for-v0-af632nce2dud1.jpg%3Fwidth%3D3840%26format%3Dpjpg%26auto%3Dwebp%26s%3D102770acfd3d1534ba97f09cfcaab822e6485b9e"
+      "background_url": "https://i.redd.it/hey-i-just-realised-that-minecraft-dropped-wallpapers-for-v0-af632nce2dud1.jpg?width=3840&format=pjpg&auto=webp&s=102770acfd3d1534ba97f09cfcaab822e6485b9e"
     },
     "b2c3d4e5-f6a7-8901-2345-67890abcdef1": {
       "name": "Minecraft Tecnico",
@@ -15,7 +15,7 @@
       "modloader_type": "fabric",
       "modloader_version": "0.17.2",
       "jvm_args": "-Xmx6G",
-      "background_url": "https://cdn.discordapp.com/attachments/1216473321324023808/1416623126149857402/JxeNWwl.png?ex=68c78498&is=68c63318&hm=bd991539f60b5c2a85e6f799727c4e26d97f16486758b7c0ab71081b5fbce3f3&",
+      "background_url": "https://staticg.sportskeeda.com/editor/2025/01/8827f-17376979472538-1920.jpg",
       "mods": [
         {
           "slug": "sodium",
