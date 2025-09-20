@@ -105,9 +105,9 @@
     },
     "c3d4e5f6-a7b8-9012-3456-7890abcdef12": {
       "name": "Minecraft Visuals",
-      "minecraft_version": "1.21",
+      "minecraft_version": "1.21.8",
       "modloader_type": "fabric",
-      "modloader_version": "0.15.11",
+      "modloader_version": "0.17.2",
       "jvm_args": "-Xmx8G",
       "background_url": "https://cdn.discordapp.com/attachments/1216473321324023808/1416623126715961354/bs7lkGM.png?ex=68c78498&is=68c63318&hm=33442482a10fd89d1c72c71aad830af16602097394e88206870d0d5950b686e8&"
     }
